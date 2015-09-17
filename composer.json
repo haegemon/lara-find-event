@@ -1,0 +1,21 @@
+{
+  "name": "haegemon/laraFindEvent",
+  "description": "Lara findEvent is a small library that enabled after find event for laravel model",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "haegemon",
+      "email": "pawel.samysev@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": ">=5.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Eloquent\\laraFindEvents\\": "src/laraFindEvents/"
+    }
+  }
+}
