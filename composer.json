@@ -1,5 +1,5 @@
 {
-  "name": "haegemon/laraFindEvent",
+  "name": "haegemon/lara-find-event",
   "description": "Lara findEvent is a small library that enabled after find event for laravel model",
   "minimum-stability": "stable",
   "license": "proprietary",
