@@ -2,7 +2,7 @@
   "name": "haegemon/lara-find-events",
   "description": "Lara findEvent is a small library that enabled after find event for laravel model",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "GNU",
   "authors": [
     {
       "name": "haegemon",
